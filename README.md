@@ -7,3 +7,6 @@
 - [Project Report](docs/03_report.pdf)
 - [Presentation](docs/04_presentation.pdf)
 
+## Live Demo
+
+![Loan Prediction Demo](screenshots/prediction_demo.png)
